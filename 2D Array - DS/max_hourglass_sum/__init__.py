@@ -1,4 +1,5 @@
-# !/bin/python3 PROBLEM STATEMENT: https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&page=1&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+# !/bin/python3
+# PROBLEM STATEMENT: https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&page=1&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
 #
 # Given a 6x6 array, find all the valid hourglass arrays and their respective sums. Return the sum with the highest
 # value.

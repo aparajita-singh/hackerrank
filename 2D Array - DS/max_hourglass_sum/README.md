@@ -1,5 +1,5 @@
 ##2D Array - DS
-* ###max_hourglass_sum
+###max_hourglass_sum
 Problem statement: Given a 6x6 array, identify and find the sum of the hourglass arrays within it. Return the highest sum.
 Example:
 Given array is - 
